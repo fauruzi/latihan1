@@ -1,3 +1,4 @@
 
-print ('Belajar bareng ayang')
+print ('Belajar ML')
 print (' Halo Dunia')
+print ('Yes')
